@@ -5,7 +5,7 @@
  */
 package poo_estoque.servicos;
 
-import poo_estoque.objetos.Usuario;
+import poo_estoque.produtos.Usuario;
 
 /**
  *

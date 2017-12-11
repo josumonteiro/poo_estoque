@@ -7,7 +7,7 @@ package poo_estoque.DAOs;
 
 import java.util.ArrayList;
 import java.util.List;
-import poo_estoque.objetos.Moto;
+import poo_estoque.produtos.Moto;
 
 /**
  *

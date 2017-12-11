@@ -12,7 +12,7 @@ import java.awt.event.KeyEvent;
 import javax.swing.JOptionPane;
 import poo_estoque.servicos.ServicoLogin;
 import poo_estoque.servicos.SingletonLogin;
-import poo_estoque.objetos.Usuario;
+import poo_estoque.produtos.Usuario;
 
 /**
  *

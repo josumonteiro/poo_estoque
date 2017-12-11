@@ -8,7 +8,7 @@ package poo_estoque.telas;
 import java.awt.Dimension;
 import java.awt.Toolkit;
 import javax.swing.JOptionPane;
-import poo_estoque.objetos.Moto;
+import poo_estoque.produtos.Moto;
 import poo_estoque.servicos.ImplServicoVeiculos;
 
 /**

@@ -8,8 +8,8 @@ package poo_estoque.servicos;
 import java.util.List;
 import poo_estoque.DAOs.CarrosDAO;
 import poo_estoque.DAOs.MotosDAO;
-import poo_estoque.objetos.Carro;
-import poo_estoque.objetos.Moto;
+import poo_estoque.produtos.Carro;
+import poo_estoque.produtos.Moto;
 
 /**
  *

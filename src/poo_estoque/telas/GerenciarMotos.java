@@ -16,7 +16,7 @@ import java.util.logging.Logger;
 import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
 import poo_estoque.servicos.GerarCSV;
-import poo_estoque.objetos.Moto;
+import poo_estoque.produtos.Moto;
 import poo_estoque.servicos.ImplServicoVeiculos;
 import poo_estoque.servicos.SingletonLogin;
 

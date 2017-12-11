@@ -3,14 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package poo_estoque.objetos;
+package poo_estoque.produtos;
 
 /**
  *
  * @author Josué
  */
 public class Carro extends Veiculo {
-    int n_portas;
+    private int n_portas;
 
     public int getN_portas() {
         return n_portas;

@@ -14,7 +14,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
-import poo_estoque.objetos.Carro;
+import poo_estoque.produtos.Carro;
 import poo_estoque.servicos.GerarCSV;
 import poo_estoque.servicos.ImplServicoVeiculos;
 import poo_estoque.servicos.SingletonLogin;
